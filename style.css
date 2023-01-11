@@ -24,7 +24,7 @@ body{
 }
 .header-section {
   background: #deecdf;
-  background-image: url('../img/1.jpg');
+  background-image: url('../img/img1.jpg');
   text-align: center;
   min-height: 500px;
   height:100vh;
@@ -59,7 +59,7 @@ span.glyphicon.glyphicon-triangle-bottom {
 .about{
 	background-size: cover;
 	background: #deecdf;
-/* 	background-image: url('../img/1.jpg');
+/* 	background-image: url('../img/img1.jpg');
  */	padding-bottom: 5vw;
 	text-align: center;
 }
